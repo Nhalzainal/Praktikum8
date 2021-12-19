@@ -179,7 +179,7 @@ else :
 
  # Menambahkan data dan menampilkan data
 
- ![gambar](ss?ss4.png)
+ ![gambar](ss/ss4.png)
 
  # Menghapus data 
 
